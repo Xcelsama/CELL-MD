@@ -3,19 +3,18 @@
  
 
 
- It is designed to bring a whole new level of excitement to your boring WhatsApp use. 
+ It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
+<a href='https://chat.whatsapp.com/EjCevQuz0IBIlfUUYLPEB4' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/OFFICIAL-GC-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
 <p align="center">
   <a href="https://chat.whatsapp.com/ERYl3BYeDgj0xlZUssQI9p">
-    <img alt="botcell-md" height="300" src="https://telegra.ph/file/0b803161891c903a5e3a9.jpg">
+    <img alt="Excel-MD V2" height="300" src="https://i.imgur.com/oNckzkC.jpg">
   </a>
 </p>
    <p align="center">
   <a href="https://wa.me//+2347045035241" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-
-</p>
-<a href='https://chat.whatsapp.com/EjCevQuz0IBIlfUUYLPEB4' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/OFFICIAL-GC-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>  <a aria-label="Excel_Md is free to use" href="https://chat.whatsapp.com/ERYl3BYeDgj0xlZUssQI9p" target="_blank">
+  <a aria-label="Excel_Md is free to use" href="https://chat.whatsapp.com/ERYl3BYeDgj0xlZUssQI9p" target="_blank">
     <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
   </a>
    <a aria-label="Excel-MdV2 is free to use" href="https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X" target="_blank">
@@ -73,13 +72,11 @@ mongodb://usrdhz7ejxwayzvw69qm:fRuJImqP1BOZyGk9fD6@bupt7kruqljyivftjl4i-mongodb.
 
 ＊DEPLOYMENT METHODS
 
-❍ᗪᗴᑭᒪOY  ᖴᖇᗴᗴ ᗯITᕼ ᑕOᗪᗴՏᑭᗩᑕᗴ
-
+❍ᗪᗴᑭᒪOY  ᖴᖇᗴᗴ ᗯITᕼ ᑕOᗪᗴՏᑭᗩᑕᗴ
 
 - If You don't have a account in Codespace. Create a account.
     <br>
-
-<a href='https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fcodespaces' target="_blank"><img alt='Codespaces' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
+<a href='https://github.com/login?return_to=https%3A%2F%2Fgithub.com%2Fcodespaces' target="_blank"><img alt='Codespaces' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
 Now Deploy
     <br>
 <a href='https://cautious-goldfish-4j79j464wgxqhwpw.github.dev/' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=visualstudiocode' width="96.35" height="28"/></a></p>
@@ -91,8 +88,7 @@ Now Deploy
 - If You don't have a account in replit. Create a account.
     <br>
 <a href='https://replit.com/signup' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=Replit' width="96.35" height="28"/></a></p>
-
-Now Deploy
+Now Deploy
     <br>
 <a href='https://replit.com/@HopeAmadi/EXCEL-MD-V2' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=Replit' width="96.35" height="28"/></a></p>'
 ❍ᗪᗴᑭᒪOY Oᑎ ᕼᗴᖇOKᑌ

@@ -19,8 +19,7 @@
    <a aria-label="Excel-MdV2 is free to use" href="https://whatsapp.com/channel/0029VaBcXo4JJhzW9c1uVD2X" target="_blank">
    </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{xcelsama}/count.svg" alt="xcelsama:: Visitor's Count" /></p>
-
-><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&pause=1000&color=DBEDF7&center=true&random=false&width=435&lines=EXCEL-MD-V2;MUTLI+FUNCTIONAL;WHATSAPP+BOT;MADE+BY;EXCEL+ Amadi." alt="Typing SVG" /></a>
+
 
 <p align="center">ℹ️ 𝙲𝚘𝚗𝚝𝚊𝚌𝚝 𝙼𝚎
   <a

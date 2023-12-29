@@ -35,9 +35,7 @@
 </p>
 
 
-
-- Install [External Plugins](https://github.com/SamPandey001/Secktor-Plugins)
-## Deployment Methods
+ Deployment Methods
 **If You Don't Have Any MongoDB Url Then, Use This Public one.!**
 ```
 mongodb://usrdhz7ejxwayzvw69qm:fRuJImqP1BOZyGk9fD6@bupt7kruqljyivftjl4i-mongodb.services.clever-cloud.com:2791/bupt7kruqljyivftjl4i

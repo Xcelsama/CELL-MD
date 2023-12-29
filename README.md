@@ -8,7 +8,6 @@
   <a href="https://chat.whatsapp.com/ERYl3BYeDgj0xlZUssQI9p">
     <img alt="CELL-Bot-md" height="300" src="https://telegra.ph/file/0b803161891c903a5e3a9.jpg">
   </a>
-#BOT INF0##
 </p>
    <p align="center">
   <a href="https://wa.me//+2347045035241" target="_blank">

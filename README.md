@@ -48,7 +48,7 @@ mongodb://usrdhz7ejxwayzvw69qm:fRuJImqP1BOZyGk9fD6@bupt7kruqljyivftjl4i-mongodb.
     
 ➤FORK THE REPOSITORY (Repo) 
     <br>
-<a href="https://github.com/Xcelsama/Excel-MDX"><img title="Excel-MDX" src="https://img.shields.io/badge/FORK Excel-MD-V2?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/Xcelsama/Excel-MDX"><img title="Excel-MDX" src="https://img.shields.io/badge/FORK STAR-MDX?color=black&style=for-the-badge&logo=stackshare"></a>
 
 
 ➤  GET SESSION  ID FOR EXCEL-MDX
